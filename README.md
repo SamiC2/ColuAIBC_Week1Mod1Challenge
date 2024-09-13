@@ -1,8 +1,14 @@
-# Report on Genesys Cloud CX
+# Report on Kore.AI
 
 ## Overview and Origin
 
-The company that I have decided to research further is Genesys Cloud CX. They are an AI-driven platform specializing in Converstaional AI experiences and driving solutions for automating contact centers. 
+The company that I have decided to research further is Kore.AI. They are an AI-driven platform specializing in Converstaional AI experiences and driving solutions for automating contact centers. Their audience are companies with contact centers who have large volumes of traffic to their live agents that want to alleviate said traffic, and their main three main NLP related solutions are as follows: 
+
+* Offering a robust chatbot and contact center experience with XO
+* Utilizing GALE to create Generative AI Agents to empower NLP models
+* Employing Search AI, a solution using Generative AI to help with agent assist and solve customer queries faster
+
+The metrics they employ involve containment within the chatbot itself and the load of conversations decreased from the live agents. Another metric is how many customers and clients they have helped and optimized. 
 
 ## Business Activities
 
